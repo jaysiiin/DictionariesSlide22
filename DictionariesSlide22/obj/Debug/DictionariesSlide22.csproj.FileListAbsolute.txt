@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DictionariesSlide22\DictionariesSlide22\bin\Debug\DictionariesSlide22.exe.config
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\DictionariesSlide22\DictionariesSlide22\bin\Debug\DictionariesSlide22.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\DictionariesSlide22\DictionariesSlide22\bin\Debug\DictionariesSlide22.pdb
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\DictionariesSlide22\DictionariesSlide22\obj\Debug\DictionariesSlide22.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\DictionariesSlide22\DictionariesSlide22\obj\Debug\DictionariesSlide22.exe
+C:\Users\WeCanCodeIT\documents\visual studio 2015\Projects\DictionariesSlide22\DictionariesSlide22\obj\Debug\DictionariesSlide22.pdb
